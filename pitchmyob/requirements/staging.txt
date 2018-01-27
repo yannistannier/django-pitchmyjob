@@ -1,0 +1,2 @@
+-r production.txt
+django-cors-headers==2.0.1
